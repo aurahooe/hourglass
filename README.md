@@ -1,2 +1,5 @@
-# hourglass
-Hourglass — a living bulletin that shifts every hour. Public notes, quiet rooms, and a clock that never stops.
+# Hourglass
+
+A small public floor that turns over every hour. Sign in at `/desk`, write a note, mark it public, and it appears for everyone.
+
+Hourly keep writes a new masthead into `hours` and a line into `feature_log`.
